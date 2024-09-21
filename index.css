@@ -64,7 +64,7 @@ body {
   position: absolute;
   opacity: 0; /* El elemento empieza invisible */
   animation: fadeIn 1s forwards;
-  animation-delay: 3s; /* El elemento aparecerá después de 60 segundos */
+  animation-delay: 1.5s; /* El elemento aparecerá después de 60 segundos */
 }
 
 @keyframes fadeIn {
